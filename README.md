@@ -85,16 +85,16 @@ Os testes foram realizados utilizando o Thunder Client para verificar o funciona
 
 **Cadastro de ocorrência**
 
-![Cadastro de ocorrência](imagens/prints/usuarios/cadastrar_ocorrencia.png)
+![Cadastro de ocorrência](imagens/prints/usuario/cadastrar_ocorrencia.png)
 
 **Listagem de ocorrências**
 
-![Listagem de ocorrências](imagens/prints/usuarios/listar_ocorrencia.png)
+![Listagem de ocorrências](imagens/prints/usuario/listar_ocorrencia.png)
 
 **Atualização de ocorrência**
 
-![Atualização de ocorrência](imagens/prints/usuarios/atualizar_ocorrencia.png)
+![Atualização de ocorrência](imagens/prints/usuario/atualizar_ocorrencia.png)
 
 **Resumo de ocorrências tratadas**
 
-![Resumo de ocorrências](imagens/prints/usuarios/resumir_ocorrencia.png)
+![Resumo de ocorrências](imagens/prints/usuario/resumir_ocorrencia.png)
