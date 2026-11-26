@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido durante as aulas do curso de Desenvolvimento de Sistemas do SENAI. Consiste em uma API back-end feita com Node.js, utilizando a arquitetura MVC e o banco de dados MariaDB.
+Este projeto foi desenvolvido durante as aulas do curso de Desenvolvimento de Sistemas do SENAI. Consiste em uma API back-end criada com Node.js, utilizando a arquitetura MVC e o banco de dados MariaDB.
 
 O sistema permite registrar e acompanhar pontos de descarte irregular de resíduos na cidade de Amparo, como lixo, entulho e materiais eletrônicos. Também possui funcionalidades para cadastrar, consultar e atualizar usuários e ocorrências, além de realizar login.
 
@@ -63,38 +63,38 @@ Os testes foram realizados utilizando o Thunder Client para verificar o funciona
 
 **Teste da rota inicial**
 
-![Teste da rota inicial](imagens/prints/usuarios/testar_rotas.png)
+![Teste da rota inicial](imagens/prints/ocorrencias/testar_rotas.png)
 
 **Cadastro de usuário**
 
-![Cadastro de usuário](imagens/prints/usuarios/cadastrar_usuario.png)
+![Cadastro de usuário](imagens/prints/ocorrencias/cadastrar_usuario.png)
 
 **Listagem de usuários**
 
-![Listagem de usuários](imagens/prints/usuarios/listar_usuario.png)
+![Listagem de usuários](imagens/prints/ocorrencias/listar_usuario.png)
 
 **Atualização de usuário**
 
-![Atualização de usuário](imagens/prints/usuarios/atualizar_usuario.png)
+![Atualização de usuário](imagens/prints/ocorrencias/atualizar_usuario.png)
 
 **Teste de login**
 
-![Teste de login](imagens/prints/usuarios/testar_login.png)
+![Teste de login](imagens/prints/ocorrencias/testar_login.png)
 
 ### Testes de ocorrências
 
 **Cadastro de ocorrência**
 
-![Cadastro de ocorrência](imagens/prints/ocorrencias/cadastrar_ocorrencia.png)
+![Cadastro de ocorrência](imagens/prints/usuarios/cadastrar_ocorrencia.png)
 
 **Listagem de ocorrências**
 
-![Listagem de ocorrências](imagens/prints/ocorrencias/listar_ocorrencia.png)
+![Listagem de ocorrências](imagens/prints/usuarios/listar_ocorrencia.png)
 
 **Atualização de ocorrência**
 
-![Atualização de ocorrência](imagens/prints/ocorrencias/atualizar_ocorrencia.png)
+![Atualização de ocorrência](imagens/prints/usuarios/atualizar_ocorrencia.png)
 
 **Resumo de ocorrências tratadas**
 
-![Resumo de ocorrências](imagens/prints/ocorrencias/resumir_ocorrencia.png)
+![Resumo de ocorrências](imagens/prints/usuarios/resumir_ocorrencia.png)
