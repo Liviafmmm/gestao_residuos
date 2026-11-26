@@ -63,23 +63,23 @@ Os testes foram realizados utilizando o Thunder Client para verificar o funciona
 
 **Teste da rota inicial**
 
-![Teste da rota inicial](imagens/prints/ocorrencias/testar_rotas.png)
+![Teste da rota inicial](imagens/prints/ocorrencia/testar_rotas.png)
 
 **Cadastro de usuário**
 
-![Cadastro de usuário](imagens/prints/ocorrencias/cadastrar_usuario.png)
+![Cadastro de usuário](imagens/prints/ocorrencia/cadastrar_usuario.png)
 
 **Listagem de usuários**
 
-![Listagem de usuários](imagens/prints/ocorrencias/listar_usuario.png)
+![Listagem de usuários](imagens/prints/ocorrencia/listar_usuario.png)
 
 **Atualização de usuário**
 
-![Atualização de usuário](imagens/prints/ocorrencias/atualizar_usuario.png)
+![Atualização de usuário](imagens/prints/ocorrencia/atualizar_usuario.png)
 
 **Teste de login**
 
-![Teste de login](imagens/prints/ocorrencias/testar_login.png)
+![Teste de login](imagens/prints/ocorrencia/testar_login.png)
 
 ### Testes de ocorrências
 
